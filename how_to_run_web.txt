@@ -1,0 +1,5 @@
+1.install requirements library 
+    pip install -r requirements.txt
+2.run web via streamlit command
+    streamlit run web_app.py 
+3.test with image on filder "test_data" or other if you want
